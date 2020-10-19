@@ -14,11 +14,4 @@ and [bzlgen](https://github.com/Evertz/bzlgen), a BUILD file generator for multi
 
 <img src="https://raw.githubusercontent.com/mattem/mattem/master/assets/bazel_logo.svg" alt="Bazel Build logo" width="20" height="20"> Collaborator on [rules_nodejs](https://github.com/bazelbuild/rules_nodejs)
 
-<p align="center">
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="20" height="20"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/>
-</p>
-
 <p align="center">Let's chat <a href="mailto:me@mattem.dev">me@mattem.dev</a></p>
